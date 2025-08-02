@@ -26,6 +26,14 @@ export default function Home() {
             <a href="mailto:direct@packright.solutions" className={`underline`}>
               direct@packright.solutions
             </a>
+            <br />
+            <a href="tel:+918639037338" className={`underline`}>
+              +91 86390-37338
+            </a>
+            ,{" "}
+            <a href="mailto:sales@packright.solutions" className={`underline`}>
+              sales@packright.solutions
+            </a>
           </li>
         </ul>
       </main>
