@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start max-w-[500px] font-mono">
         <Image
           className="w-full"
-          src="/logo-dark.svg"
+          src="/logo_light.svg"
           alt="Packright Solutions Logo"
           width={180}
           height={38}
