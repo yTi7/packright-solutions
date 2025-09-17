@@ -1,5 +1,16 @@
 {
-	"files.associations": {
-		"wrangler.json": "jsonc"
-	}
+  "files.associations": {
+    "wrangler.json": "jsonc"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.open-next": true,
+    "**/.next": true,
+    "**/.wrangler": true,
+    "**/*.d.ts": true
+  }
 }
